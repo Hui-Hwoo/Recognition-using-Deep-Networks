@@ -12,7 +12,7 @@ IDE: VS Code
 
 ## Links
 
-- link to report: https://cerulean-novel-54b.notion.site/Report-5-Recognition-using-Deep-Networks-815475a309bd42fca45d639694efac15
+- link to report: https://hui-hwoo.notion.site/Report-5-Recognition-using-Deep-Networks-815475a309bd42fca45d639694efac15?pvs=4
 
 - link to github: https://github.com/Hui-Hwoo/Recognition-using-Deep-Networks
 
