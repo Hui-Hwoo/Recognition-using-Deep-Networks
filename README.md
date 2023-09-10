@@ -1,5 +1,3 @@
-# Use 3 Travel days :(
-
 # Recognition-using-Deep-Networks
 
 The objective of this project is to build, train, analyze, and modify a deep neural network for the recognition task using the MNIST digit dataset. The project involves tasks such as building and training the network, visualizing the dataset, making the network code repeatable, designing the network model, and training the model for five epochs. 
